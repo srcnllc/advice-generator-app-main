@@ -4,6 +4,6 @@
 
 
 ## Merhaba! 👋
-"https://www.frontendmentor.io/home" sitesi içerisindeki challenges bölümündeki projelerden başladığım serinin 4. projesi olarak bu yuarıdaki "advice-generator-app-main" projesini seçtim ve tamamladım.  
+"https://www.frontendmentor.io/home" sitesi içerisindeki challenges bölümündeki projelerden başladığım serinin 4. projesi olarak bu yukarıdaki "advice-generator-app-main" projesini seçtim ve tamamladım.  
   
   Demo_Link : https://srcnllc.github.io/advice-generator-app-main/
